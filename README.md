@@ -8,5 +8,4 @@ Used on Site portfolio
  - AWS CloudFront
  - AWS Lambda
  - Dynamo DB
- - GitHub Actions
  - Terraform
