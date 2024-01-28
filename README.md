@@ -4,6 +4,7 @@ The Cloud Resume Challenge is a hands-on project designed to help you bridge the
 # AWS Services 
 
 Used on Site portfolio 
+ - Website - HTML,CSS,JS
  - S3
  - AWS CloudFront
  - AWS Lambda
