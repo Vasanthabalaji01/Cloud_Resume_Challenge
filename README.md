@@ -1,7 +1,17 @@
 # Cloud-Resume-Challenge
 The Cloud Resume Challenge is a hands-on project designed to help you bridge the gap from cloud certification to cloud job. It incorporates many of the skills that real cloud and DevOps engineers use in their daily work.
 
-Visit >> | [AWS Portfolio](https://d2t49eqsussrlv.cloudfront.net/) | [Azure Portfolio]() |
+<p align="Center">
+  <img src="" alt="same to same">
+</p>
+
+[🟠](https://d2t49eqsussrlv.cloudfront.net/) 
+
+<p align="Center">
+  <img src="" alt="same to same">
+</p>
+
+[🔵]()
 
 # Web Developement
 [Portfolio Template](website)
